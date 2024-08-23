@@ -3,8 +3,8 @@
 **Welcome to GENESIS**  
 The Best Digital Marketing Agency from Kerala
 
-![GENESIS](https://via.placeholder.com/728x90.png?text=GENESIS+SMMA) <!-- Add your agency's banner image -->
-
+ <!-- Add your agency's banner image -->
+![GENESIS](https://via.placeholder.com/728x180/333333/8B0000?text=GENESIS+SMMA&font=lobster)
 ---
 
 ## About Us
